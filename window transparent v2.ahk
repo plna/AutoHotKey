@@ -5,6 +5,6 @@
   }
   else
   {
-    WinSetTransparent 200
+    WinSetTransparent 230
   }
 }
